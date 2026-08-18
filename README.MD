@@ -1,7 +1,4 @@
-Ecco un README.md semplice e sintetico per la tua repository:
-
-```markdown
-# Generatore Slides Cybersicurezza
+# Generatore Slides
 
 Questo tool genera automaticamente presentazioni PowerPoint per lezioni di cybersicurezza a partire da un file YAML di configurazione.
 
@@ -64,10 +61,3 @@ Le slides generate sono:
 - Senza temi o colori (stile neutro)
 - Composte solo da titolo e corpo del testo
 - Supporto per grassetto ed elenchi puntati
-
-## Licenza
-
-[Specificare la licenza qui]
-```
-
-Questo README è essenziale, senza fronzoli, e spiega solo ciò che serve per installare e usare il tool.
